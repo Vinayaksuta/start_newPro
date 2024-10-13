@@ -1,0 +1,16 @@
+step 
+create new folder----->
+open terminal/cmd----->
+copy repository link of project----->
+git clone "___ paste here __"-------->
+
+
+
+
+
+
+git pull  /*to update project*/-------> Always run this command when start working------>
+git status ---> to chea file change------>
+git add . ----> combines the file that sends--->
+git commit _m "repository to  discar changes in working directory "----->
+git push
